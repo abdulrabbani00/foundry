@@ -3470,7 +3470,7 @@ dependencies = [
 [[package]]
 name = "revm"
 version = "1.2.0"
-source = "git+https://github.com/onbjerg/revm?branch=onbjerg/blockhashes#ed4e9aeec068ba36b054fdfb807060f1555ec484"
+source = "git+https://github.com/onbjerg/revm?branch=onbjerg/tracer-ends#7a243f84a4ea9f5a969e9546bbf3d6b6096c845e"
 dependencies = [
  "arrayref",
  "auto_impl",
@@ -3486,7 +3486,7 @@ dependencies = [
 [[package]]
 name = "revm_precompiles"
 version = "0.4.0"
-source = "git+https://github.com/onbjerg/revm?branch=onbjerg/blockhashes#ed4e9aeec068ba36b054fdfb807060f1555ec484"
+source = "git+https://github.com/onbjerg/revm?branch=onbjerg/tracer-ends#7a243f84a4ea9f5a969e9546bbf3d6b6096c845e"
 dependencies = [
  "bytes",
  "k256",
